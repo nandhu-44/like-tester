@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Like Tester
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Like Tester is a web application built with React using Create React App. It allows users to test their liking capabilities by providing a simple interface to like or dislike various items.
 
 ## Available Scripts
 
