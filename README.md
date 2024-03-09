@@ -2,6 +2,8 @@
 
 Like Tester is a web application built with React using Create React App. It allows users to test their liking capabilities by providing a simple interface to like or dislike various items.
 
+> You can view this project live [here](https://like-tester.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
